@@ -7,7 +7,7 @@ title: Be a geek
 subtitle: Smiling to the Challenge
 description: 
 author: Han Zhang
-language:
+language: zh-CN
 timezone:
 
 # URL
@@ -16,6 +16,8 @@ url: https://RutgersHan.github.io
 root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
+
+
 
 # Directory
 source_dir: source
@@ -46,6 +48,14 @@ highlight:
 default_category: uncategorized
 category_map:
 tag_map:
+
+# Archives
+## 2: Enable pagination
+## 1: Disable pagination
+## 0: Fully Disable
+archive: 2
+category: 2
+tag: 2
 
 # Date / Time format
 ## Hexo uses Moment.js to parse and display date
