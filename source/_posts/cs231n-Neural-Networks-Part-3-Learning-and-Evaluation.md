@@ -12,3 +12,5 @@ $$
 $$
 \frac{df(x)}{dx} = \frac{f(x + h) - f(x - h)}{2h} \hspace{0.1in} \text{(use instead)}
 $$
+
+Use relative error for the comparison
