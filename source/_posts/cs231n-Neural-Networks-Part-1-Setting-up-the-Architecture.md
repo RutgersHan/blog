@@ -1,6 +1,6 @@
 title: "[cs231n]Neural Networks Part 1: Setting up the Architecture "
 date: 2015-04-21 16:51:11
-categories: Open Courses
+categories: Open Course
 tags: 
 ---
 [Lecture Notes](http://cs231n.github.io/neural-networks-1/)
